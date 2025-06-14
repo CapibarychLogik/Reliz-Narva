@@ -1,6 +1,9 @@
 body {
     font-family: sans-serif;
 }
+.dead {
+text-align: center;
+}
 
 header {
     background-color: white;
