@@ -1,8 +1,9 @@
 body {
     font-family: sans-serif;
 }
-.dead {
-text-align: center;
+.dead{
+    text-align: center;
+    font-size: 45px;
 }
 
 header {
