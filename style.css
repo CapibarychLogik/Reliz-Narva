@@ -4,6 +4,12 @@ body {
 .dead{
     text-align: center;
     font-size: 45px;
+
+    .gg{
+        color: red;
+    }
+    
+    
 }
 
 header {
@@ -11,8 +17,7 @@ header {
     padding: 20px;
     height: 60px;
     align-items: center;
-    flex:;
-     z-index: 1; 
+    flex-index: 1; 
 
 }
 
